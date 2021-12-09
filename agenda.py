@@ -1,5 +1,5 @@
 print("AGENDA")
-print("1.Nuevo contacto")
+print("1.AGREGAR Nuevo contacto") #MODIFICACION PARA DESAFIO 3 (AGREGAR)
 print("2.Buscar contacto")
 print("3.Ver la agenda")
 agenda={}
